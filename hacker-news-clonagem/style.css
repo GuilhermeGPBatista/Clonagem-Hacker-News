@@ -1,0 +1,76 @@
+html{
+    background-color: white;
+}
+
+header{
+  width: 1590px;
+  margin: 2px auto auto auto;
+  background-color: rgb(255, 102, 0);
+  padding: 1px;
+}
+
+img{
+  margin: auto 5px auto auto;
+  border: 1px white solid;
+}
+
+a{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: auto;
+}
+
+.corpo{
+    width: 1595px;
+    margin: 15px auto auto auto;
+    background-color: #f6f6ef;
+    padding-bottom: -10px;
+}
+
+.login{
+  padding-left: 980px;
+}
+
+li{
+  margin: auto auto 10px auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10pt;
+  margin-left: -15px;
+}
+
+.LetraPequena{
+  font-size: 7pt;
+}
+
+.link-paragrafo{
+  font-size: 8pt;
+}
+
+.linha{
+  width: 90;
+  background-color:rgb(255, 102, 0);
+  padding: 1px;
+  margin-left: -40px;
+}
+
+.final{
+  font-size: 8pt;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 20px auto auto 580px;
+}
+
+.input{
+  flex: content;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  
+ 
+}
+
+.search{
+  margin-left: 669px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  font-size: 10pt;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  float: left;
+}
